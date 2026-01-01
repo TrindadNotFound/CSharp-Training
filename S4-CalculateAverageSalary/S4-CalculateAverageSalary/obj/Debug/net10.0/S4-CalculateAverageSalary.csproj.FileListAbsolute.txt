@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-CalculateAverageSalary/S4-CalculateAverageSalary/bin/Debug/net10.0/S4-CalculateAverageSalary
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-CalculateAverageSalary/S4-CalculateAverageSalary/bin/Debug/net10.0/S4-CalculateAverageSalary.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-CalculateAverageSalary/S4-CalculateAverageSalary/bin/Debug/net10.0/S4-CalculateAverageSalary.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-CalculateAverageSalary/S4-CalculateAverageSalary/bin/Debug/net10.0/S4-CalculateAverageSalary.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-CalculateAverageSalary/S4-CalculateAverageSalary/bin/Debug/net10.0/S4-CalculateAverageSalary.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-CalculateAverageSalary/S4-CalculateAverageSalary/obj/Debug/net10.0/S4-CalculateAverageSalary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-CalculateAverageSalary/S4-CalculateAverageSalary/obj/Debug/net10.0/S4-CalculateAverageSalary.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-CalculateAverageSalary/S4-CalculateAverageSalary/obj/Debug/net10.0/S4-CalculateAverageSalary.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-CalculateAverageSalary/S4-CalculateAverageSalary/obj/Debug/net10.0/S4-CalculateAverageSalary.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-CalculateAverageSalary/S4-CalculateAverageSalary/obj/Debug/net10.0/S4-CalculateAverageSalary.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-CalculateAverageSalary/S4-CalculateAverageSalary/obj/Debug/net10.0/S4-CalculateAverageSalary.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-CalculateAverageSalary/S4-CalculateAverageSalary/obj/Debug/net10.0/refint/S4-CalculateAverageSalary.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-CalculateAverageSalary/S4-CalculateAverageSalary/obj/Debug/net10.0/S4-CalculateAverageSalary.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-CalculateAverageSalary/S4-CalculateAverageSalary/obj/Debug/net10.0/S4-CalculateAverageSalary.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-CalculateAverageSalary/S4-CalculateAverageSalary/obj/Debug/net10.0/ref/S4-CalculateAverageSalary.dll

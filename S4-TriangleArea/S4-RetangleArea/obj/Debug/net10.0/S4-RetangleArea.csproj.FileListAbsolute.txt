@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-TriangleArea/S4-RetangleArea/bin/Debug/net10.0/S4-RetangleArea
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-TriangleArea/S4-RetangleArea/bin/Debug/net10.0/S4-RetangleArea.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-TriangleArea/S4-RetangleArea/bin/Debug/net10.0/S4-RetangleArea.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-TriangleArea/S4-RetangleArea/bin/Debug/net10.0/S4-RetangleArea.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-TriangleArea/S4-RetangleArea/bin/Debug/net10.0/S4-RetangleArea.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-TriangleArea/S4-RetangleArea/obj/Debug/net10.0/S4-RetangleArea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-TriangleArea/S4-RetangleArea/obj/Debug/net10.0/S4-RetangleArea.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-TriangleArea/S4-RetangleArea/obj/Debug/net10.0/S4-RetangleArea.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-TriangleArea/S4-RetangleArea/obj/Debug/net10.0/S4-RetangleArea.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-TriangleArea/S4-RetangleArea/obj/Debug/net10.0/S4-RetangleArea.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-TriangleArea/S4-RetangleArea/obj/Debug/net10.0/S4-RetangleArea.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-TriangleArea/S4-RetangleArea/obj/Debug/net10.0/refint/S4-RetangleArea.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-TriangleArea/S4-RetangleArea/obj/Debug/net10.0/S4-RetangleArea.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-TriangleArea/S4-RetangleArea/obj/Debug/net10.0/S4-RetangleArea.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-TriangleArea/S4-RetangleArea/obj/Debug/net10.0/ref/S4-RetangleArea.dll
