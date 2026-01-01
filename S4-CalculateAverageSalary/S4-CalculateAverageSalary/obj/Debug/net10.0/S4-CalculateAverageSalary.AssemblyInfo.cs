@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S4-CalculateAverageSalary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51ad668aefe3ee0e59b36ee2bdc5e84c6dfde43b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5eb195eb2e297fe3ff1579ac62d8242de3244d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("S4-CalculateAverageSalary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S4-CalculateAverageSalary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
