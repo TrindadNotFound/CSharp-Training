@@ -1,0 +1,14 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/csharp_udemy/S4-CalculateOldestPerson/S4-CalculateOldestPerson/bin/Debug/net10.0/S4-CalculateOldestPerson
+/Users/ricardotrindade/Documents/Programming/CSharp/csharp_udemy/S4-CalculateOldestPerson/S4-CalculateOldestPerson/bin/Debug/net10.0/S4-CalculateOldestPerson.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/csharp_udemy/S4-CalculateOldestPerson/S4-CalculateOldestPerson/bin/Debug/net10.0/S4-CalculateOldestPerson.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/csharp_udemy/S4-CalculateOldestPerson/S4-CalculateOldestPerson/bin/Debug/net10.0/S4-CalculateOldestPerson.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/csharp_udemy/S4-CalculateOldestPerson/S4-CalculateOldestPerson/bin/Debug/net10.0/S4-CalculateOldestPerson.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/csharp_udemy/S4-CalculateOldestPerson/S4-CalculateOldestPerson/obj/Debug/net10.0/S4-CalculateOldestPerson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/csharp_udemy/S4-CalculateOldestPerson/S4-CalculateOldestPerson/obj/Debug/net10.0/S4-CalculateOldestPerson.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/csharp_udemy/S4-CalculateOldestPerson/S4-CalculateOldestPerson/obj/Debug/net10.0/S4-CalculateOldestPerson.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/csharp_udemy/S4-CalculateOldestPerson/S4-CalculateOldestPerson/obj/Debug/net10.0/S4-CalculateOldestPerson.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/csharp_udemy/S4-CalculateOldestPerson/S4-CalculateOldestPerson/obj/Debug/net10.0/S4-CalculateOldestPerson.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/csharp_udemy/S4-CalculateOldestPerson/S4-CalculateOldestPerson/obj/Debug/net10.0/refint/S4-CalculateOldestPerson.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/csharp_udemy/S4-CalculateOldestPerson/S4-CalculateOldestPerson/obj/Debug/net10.0/S4-CalculateOldestPerson.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/csharp_udemy/S4-CalculateOldestPerson/S4-CalculateOldestPerson/obj/Debug/net10.0/S4-CalculateOldestPerson.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/csharp_udemy/S4-CalculateOldestPerson/S4-CalculateOldestPerson/obj/Debug/net10.0/ref/S4-CalculateOldestPerson.dll
