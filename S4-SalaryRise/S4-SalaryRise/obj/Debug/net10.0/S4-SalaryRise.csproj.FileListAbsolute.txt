@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-SalaryRise/S4-SalaryRise/bin/Debug/net10.0/S4-SalaryRise
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-SalaryRise/S4-SalaryRise/bin/Debug/net10.0/S4-SalaryRise.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-SalaryRise/S4-SalaryRise/bin/Debug/net10.0/S4-SalaryRise.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-SalaryRise/S4-SalaryRise/bin/Debug/net10.0/S4-SalaryRise.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-SalaryRise/S4-SalaryRise/bin/Debug/net10.0/S4-SalaryRise.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-SalaryRise/S4-SalaryRise/obj/Debug/net10.0/S4-SalaryRise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-SalaryRise/S4-SalaryRise/obj/Debug/net10.0/S4-SalaryRise.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-SalaryRise/S4-SalaryRise/obj/Debug/net10.0/S4-SalaryRise.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-SalaryRise/S4-SalaryRise/obj/Debug/net10.0/S4-SalaryRise.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-SalaryRise/S4-SalaryRise/obj/Debug/net10.0/S4-SalaryRise.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-SalaryRise/S4-SalaryRise/obj/Debug/net10.0/S4-SalaryRise.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-SalaryRise/S4-SalaryRise/obj/Debug/net10.0/refint/S4-SalaryRise.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-SalaryRise/S4-SalaryRise/obj/Debug/net10.0/S4-SalaryRise.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-SalaryRise/S4-SalaryRise/obj/Debug/net10.0/S4-SalaryRise.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-SalaryRise/S4-SalaryRise/obj/Debug/net10.0/ref/S4-SalaryRise.dll
