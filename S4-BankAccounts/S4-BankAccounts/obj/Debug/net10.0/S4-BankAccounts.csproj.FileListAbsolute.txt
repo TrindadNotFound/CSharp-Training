@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/bin/Debug/net10.0/S4-BankAccounts
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/bin/Debug/net10.0/S4-BankAccounts.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/bin/Debug/net10.0/S4-BankAccounts.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/bin/Debug/net10.0/S4-BankAccounts.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/bin/Debug/net10.0/S4-BankAccounts.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/obj/Debug/net10.0/S4-BankAccounts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/obj/Debug/net10.0/S4-BankAccounts.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/obj/Debug/net10.0/S4-BankAccounts.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/obj/Debug/net10.0/S4-BankAccounts.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/obj/Debug/net10.0/S4-BankAccounts.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/obj/Debug/net10.0/S4-BankAccounts.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/obj/Debug/net10.0/refint/S4-BankAccounts.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/obj/Debug/net10.0/S4-BankAccounts.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/obj/Debug/net10.0/S4-BankAccounts.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/obj/Debug/net10.0/ref/S4-BankAccounts.dll
