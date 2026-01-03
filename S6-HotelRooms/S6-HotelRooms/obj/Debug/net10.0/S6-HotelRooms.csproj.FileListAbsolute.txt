@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/bin/Debug/net10.0/S6-HotelRooms
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/bin/Debug/net10.0/S6-HotelRooms.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/bin/Debug/net10.0/S6-HotelRooms.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/bin/Debug/net10.0/S6-HotelRooms.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/bin/Debug/net10.0/S6-HotelRooms.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/obj/Debug/net10.0/S6-HotelRooms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/obj/Debug/net10.0/S6-HotelRooms.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/obj/Debug/net10.0/S6-HotelRooms.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/obj/Debug/net10.0/S6-HotelRooms.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/obj/Debug/net10.0/S6-HotelRooms.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/obj/Debug/net10.0/S6-HotelRooms.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/obj/Debug/net10.0/refint/S6-HotelRooms.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/obj/Debug/net10.0/S6-HotelRooms.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/obj/Debug/net10.0/S6-HotelRooms.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/obj/Debug/net10.0/ref/S6-HotelRooms.dll

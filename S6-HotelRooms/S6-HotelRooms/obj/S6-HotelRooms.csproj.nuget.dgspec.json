@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/S4-BankAccounts.csproj": {}
+    "/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/S6-HotelRooms.csproj": {}
   },
   "projects": {
-    "/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/S4-BankAccounts.csproj": {
+    "/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/S6-HotelRooms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/S4-BankAccounts.csproj",
-        "projectName": "S4-BankAccounts",
-        "projectPath": "/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/S4-BankAccounts.csproj",
+        "projectUniqueName": "/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/S6-HotelRooms.csproj",
+        "projectName": "S6-HotelRooms",
+        "projectPath": "/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/S6-HotelRooms.csproj",
         "packagesPath": "/Users/ricardotrindade/.nuget/packages/",
-        "outputPath": "/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S4-BankAccounts/S4-BankAccounts/obj/",
+        "outputPath": "/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-HotelRooms/S6-HotelRooms/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ricardotrindade/.nuget/NuGet/NuGet.Config"
