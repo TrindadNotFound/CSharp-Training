@@ -1,29 +1,29 @@
 ﻿Console.WriteLine("Enter two integer numbers to set a matrix size : ");
-Console.Write("Number 1 (columns) : ");
-int num1 = int.Parse(Console.ReadLine());
+Console.Write("Number of rows : ");
+int numRows = int.Parse(Console.ReadLine());
 
-Console.Write("Number 2 (lines) : ");
-int num2 = int.Parse(Console.ReadLine());
+Console.Write("Number of lines : ");
+int numColumns = int.Parse(Console.ReadLine());
 
-int[,] matrix = new int[num1, num2];
+int[,] matrix = new int[numRows, numColumns];
 
 Console.WriteLine();
 Console.WriteLine("Values to fill the matrix :");
 
-for (int i = 0; i < num1; i++)
+for (int i = 0; i < numRows; i++)
 {
     int[] values = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
     
-    for (int j = 0; j < num2; j++)
+    for (int j = 0; j < numColumns; j++)
     {
         matrix[i, j] = values[j];
     }
 }
 
 Console.WriteLine("-------------------");
-for (int i = 0; i < num1; i++)
+for (int i = 0; i < numRows; i++)
 {
-    for (int j = 0; j < num2; j++)
+    for (int j = 0; j < numColumns; j++)
     {
         Console.Write($"{matrix[i, j]} " );
     }
@@ -31,6 +31,20 @@ for (int i = 0; i < num1; i++)
 }
 Console.WriteLine("-------------------");
 
-Console.Write("Position to search : ");
-int[] coordinates = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
+Console.Write("Position to search (rows,columns) : ");
+int[] coordinates = Console.ReadLine().Split(',').Select(int.Parse).ToArray();
+
+int searchedRow = coordinates[0];
+int searchedCol = coordinates[1];
+
+if ((searchedRow == 0) && (searchedCol == 0))
+{   
+    Console.WriteLine($"Right : {matrix[searchedRow, searchedCol+1]}");
+    Console.WriteLine($"Bottom : {matrix[searchedRow+1, searchedCol]}");
+    
+} else if ((searchedRow == numRows-1) && (searchedCol == 0))
+{
+    Console.WriteLine($"Right : {matrix[searchedRow, searchedCol+1]}");
+    Console.WriteLine($"Top : {matrix[searchedRow-1, searchedCol]}");
+}
