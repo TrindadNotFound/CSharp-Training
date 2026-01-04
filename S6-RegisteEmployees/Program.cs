@@ -36,7 +36,7 @@ if (employee != null)
 }
 else
 {
-    Console.WriteLine("Employee ID dosen't exist");
+    Console.WriteLine("Employee ID doesn't exist");
 }
 
 Console.WriteLine();
