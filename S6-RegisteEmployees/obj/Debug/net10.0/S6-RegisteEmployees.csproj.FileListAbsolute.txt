@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-RegisteEmployees/bin/Debug/net10.0/S6-RegisteEmployees
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-RegisteEmployees/bin/Debug/net10.0/S6-RegisteEmployees.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-RegisteEmployees/bin/Debug/net10.0/S6-RegisteEmployees.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-RegisteEmployees/bin/Debug/net10.0/S6-RegisteEmployees.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-RegisteEmployees/bin/Debug/net10.0/S6-RegisteEmployees.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-RegisteEmployees/obj/Debug/net10.0/S6-RegisteEmployees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-RegisteEmployees/obj/Debug/net10.0/S6-RegisteEmployees.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-RegisteEmployees/obj/Debug/net10.0/S6-RegisteEmployees.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-RegisteEmployees/obj/Debug/net10.0/S6-RegisteEmployees.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-RegisteEmployees/obj/Debug/net10.0/S6-RegisteEmployees.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-RegisteEmployees/obj/Debug/net10.0/S6-RegisteEmployees.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-RegisteEmployees/obj/Debug/net10.0/refint/S6-RegisteEmployees.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-RegisteEmployees/obj/Debug/net10.0/S6-RegisteEmployees.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-RegisteEmployees/obj/Debug/net10.0/S6-RegisteEmployees.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-RegisteEmployees/obj/Debug/net10.0/ref/S6-RegisteEmployees.dll
