@@ -1,4 +1,4 @@
-namespace S8_WorkerContracts.entities.enums;
+namespace S8_WorkerContracts.entities;
 
 public class Department
 {

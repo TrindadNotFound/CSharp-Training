@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-WorkerContracts/S8-WorkerContracts/bin/Debug/net10.0/S8-WorkerContracts
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-WorkerContracts/S8-WorkerContracts/bin/Debug/net10.0/S8-WorkerContracts.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-WorkerContracts/S8-WorkerContracts/bin/Debug/net10.0/S8-WorkerContracts.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-WorkerContracts/S8-WorkerContracts/bin/Debug/net10.0/S8-WorkerContracts.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-WorkerContracts/S8-WorkerContracts/bin/Debug/net10.0/S8-WorkerContracts.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-WorkerContracts/S8-WorkerContracts/obj/Debug/net10.0/S8-WorkerContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-WorkerContracts/S8-WorkerContracts/obj/Debug/net10.0/S8-WorkerContracts.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-WorkerContracts/S8-WorkerContracts/obj/Debug/net10.0/S8-WorkerContracts.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-WorkerContracts/S8-WorkerContracts/obj/Debug/net10.0/S8-WorkerContracts.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-WorkerContracts/S8-WorkerContracts/obj/Debug/net10.0/S8-WorkerContracts.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-WorkerContracts/S8-WorkerContracts/obj/Debug/net10.0/S8-WorkerContracts.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-WorkerContracts/S8-WorkerContracts/obj/Debug/net10.0/refint/S8-WorkerContracts.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-WorkerContracts/S8-WorkerContracts/obj/Debug/net10.0/S8-WorkerContracts.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-WorkerContracts/S8-WorkerContracts/obj/Debug/net10.0/S8-WorkerContracts.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-WorkerContracts/S8-WorkerContracts/obj/Debug/net10.0/ref/S8-WorkerContracts.dll
