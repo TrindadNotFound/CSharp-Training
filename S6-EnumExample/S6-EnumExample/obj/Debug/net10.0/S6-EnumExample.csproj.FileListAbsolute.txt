@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-EnumExample/S6-EnumExample/bin/Debug/net10.0/S6-EnumExample
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-EnumExample/S6-EnumExample/bin/Debug/net10.0/S6-EnumExample.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-EnumExample/S6-EnumExample/bin/Debug/net10.0/S6-EnumExample.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-EnumExample/S6-EnumExample/bin/Debug/net10.0/S6-EnumExample.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-EnumExample/S6-EnumExample/bin/Debug/net10.0/S6-EnumExample.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-EnumExample/S6-EnumExample/obj/Debug/net10.0/S6-EnumExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-EnumExample/S6-EnumExample/obj/Debug/net10.0/S6-EnumExample.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-EnumExample/S6-EnumExample/obj/Debug/net10.0/S6-EnumExample.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-EnumExample/S6-EnumExample/obj/Debug/net10.0/S6-EnumExample.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-EnumExample/S6-EnumExample/obj/Debug/net10.0/S6-EnumExample.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-EnumExample/S6-EnumExample/obj/Debug/net10.0/S6-EnumExample.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-EnumExample/S6-EnumExample/obj/Debug/net10.0/refint/S6-EnumExample.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-EnumExample/S6-EnumExample/obj/Debug/net10.0/S6-EnumExample.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-EnumExample/S6-EnumExample/obj/Debug/net10.0/S6-EnumExample.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S6-EnumExample/S6-EnumExample/obj/Debug/net10.0/ref/S6-EnumExample.dll
