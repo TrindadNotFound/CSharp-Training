@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S8-WorkerContracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac7464df69bba4e11f1283ec66feba122c2bd40e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f77ed5619cfabf56110bc0d73bc9e2b615e69c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("S8-WorkerContracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S8-WorkerContracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
