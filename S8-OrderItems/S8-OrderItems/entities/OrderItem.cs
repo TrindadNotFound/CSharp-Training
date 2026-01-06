@@ -18,4 +18,9 @@ public class OrderItem
     {
         return Quantity * Price;
     }
+
+    public override string ToString()
+    {
+        return $"{Product.Name} - {Product.Price.ToString("F2")} - Quantity : {Quantity} - Subtotal : {SubTotal().ToString("F2")}";
+    }
 }

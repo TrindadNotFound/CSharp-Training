@@ -19,6 +19,9 @@ Console.WriteLine("");
 Console.WriteLine("Enter order data : ");
 Console.Write("Status : ");
 OrderStatus orderStatus = Enum.Parse<OrderStatus>(Console.ReadLine());
+
+Console.WriteLine("");
+
 Console.Write("How many items to this order ? ");
 int numberOfItems = int.Parse(Console.ReadLine());
 
@@ -38,7 +41,13 @@ for (int i = 1; i <= numberOfItems; i++)
     Console.WriteLine();
     
     Product product = new Product(productName, productPrice);
+    
     OrderItem orderItem = new OrderItem(productQuantity, productPrice, product);
+    
     order.AddItem(orderItem);
 }
+Console.WriteLine("");
+Console.WriteLine(order.ToString());
+Console.WriteLine("Press any key to exit.");
+Console.ReadKey();
 

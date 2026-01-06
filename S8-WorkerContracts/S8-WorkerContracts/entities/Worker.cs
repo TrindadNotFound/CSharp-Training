@@ -43,8 +43,4 @@ public class Worker
 
         return sum;
     }
-    public override string ToString()
-    {
-        return "xpto";
-    }
 }
