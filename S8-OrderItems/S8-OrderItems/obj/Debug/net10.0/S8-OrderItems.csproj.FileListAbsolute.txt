@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OrderItems/S8-OrderItems/bin/Debug/net10.0/S8-OrderItems
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OrderItems/S8-OrderItems/bin/Debug/net10.0/S8-OrderItems.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OrderItems/S8-OrderItems/bin/Debug/net10.0/S8-OrderItems.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OrderItems/S8-OrderItems/bin/Debug/net10.0/S8-OrderItems.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OrderItems/S8-OrderItems/bin/Debug/net10.0/S8-OrderItems.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OrderItems/S8-OrderItems/obj/Debug/net10.0/S8-OrderItems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OrderItems/S8-OrderItems/obj/Debug/net10.0/S8-OrderItems.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OrderItems/S8-OrderItems/obj/Debug/net10.0/S8-OrderItems.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OrderItems/S8-OrderItems/obj/Debug/net10.0/S8-OrderItems.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OrderItems/S8-OrderItems/obj/Debug/net10.0/S8-OrderItems.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OrderItems/S8-OrderItems/obj/Debug/net10.0/S8-OrderItems.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OrderItems/S8-OrderItems/obj/Debug/net10.0/refint/S8-OrderItems.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OrderItems/S8-OrderItems/obj/Debug/net10.0/S8-OrderItems.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OrderItems/S8-OrderItems/obj/Debug/net10.0/S8-OrderItems.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OrderItems/S8-OrderItems/obj/Debug/net10.0/ref/S8-OrderItems.dll

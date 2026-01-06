@@ -9,11 +9,10 @@ public class Order
     public List<OrderItem> Items { get; set; }
     public Client Client { get; set; }
 
-    public Order(DateTime moment, OrderStatus status, List<OrderItem> items, Client client)
+    public Order(DateTime moment, OrderStatus status, Client client)
     {
         Moment = moment;
         Status = status;
-        Items = items;
         Client = client;
     }
 
