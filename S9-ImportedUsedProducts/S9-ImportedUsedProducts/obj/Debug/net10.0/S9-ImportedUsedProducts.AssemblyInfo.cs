@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S9-ImportedUsedProducts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2481c60e6cd0eb40089abe15d181daa8b295cd24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("S9-ImportedUsedProducts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S9-ImportedUsedProducts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

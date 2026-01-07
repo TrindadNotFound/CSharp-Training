@@ -11,8 +11,8 @@ public class Product
         Price = price;
     }
 
-    public virtual string priceTage()
+    public virtual string PriceTag()
     {
-        return "xpto";
+        return $"{Name} -  {Price}€";
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\RicardoTrindade\Desktop\CSharp-Training\S9-ImportedUsedProducts\S9-ImportedUsedProducts\bin\Debug\net10.0\S9-ImportedUsedProducts.exe
+C:\Users\RicardoTrindade\Desktop\CSharp-Training\S9-ImportedUsedProducts\S9-ImportedUsedProducts\bin\Debug\net10.0\S9-ImportedUsedProducts.deps.json
+C:\Users\RicardoTrindade\Desktop\CSharp-Training\S9-ImportedUsedProducts\S9-ImportedUsedProducts\bin\Debug\net10.0\S9-ImportedUsedProducts.runtimeconfig.json
+C:\Users\RicardoTrindade\Desktop\CSharp-Training\S9-ImportedUsedProducts\S9-ImportedUsedProducts\bin\Debug\net10.0\S9-ImportedUsedProducts.dll
+C:\Users\RicardoTrindade\Desktop\CSharp-Training\S9-ImportedUsedProducts\S9-ImportedUsedProducts\bin\Debug\net10.0\S9-ImportedUsedProducts.pdb
+C:\Users\RicardoTrindade\Desktop\CSharp-Training\S9-ImportedUsedProducts\S9-ImportedUsedProducts\obj\Debug\net10.0\S9-ImportedUsedProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RicardoTrindade\Desktop\CSharp-Training\S9-ImportedUsedProducts\S9-ImportedUsedProducts\obj\Debug\net10.0\S9-ImportedUsedProducts.AssemblyInfoInputs.cache
+C:\Users\RicardoTrindade\Desktop\CSharp-Training\S9-ImportedUsedProducts\S9-ImportedUsedProducts\obj\Debug\net10.0\S9-ImportedUsedProducts.AssemblyInfo.cs
+C:\Users\RicardoTrindade\Desktop\CSharp-Training\S9-ImportedUsedProducts\S9-ImportedUsedProducts\obj\Debug\net10.0\S9-ImportedUsedProducts.csproj.CoreCompileInputs.cache
+C:\Users\RicardoTrindade\Desktop\CSharp-Training\S9-ImportedUsedProducts\S9-ImportedUsedProducts\obj\Debug\net10.0\S9-ImportedUsedProducts.dll
+C:\Users\RicardoTrindade\Desktop\CSharp-Training\S9-ImportedUsedProducts\S9-ImportedUsedProducts\obj\Debug\net10.0\refint\S9-ImportedUsedProducts.dll
+C:\Users\RicardoTrindade\Desktop\CSharp-Training\S9-ImportedUsedProducts\S9-ImportedUsedProducts\obj\Debug\net10.0\S9-ImportedUsedProducts.pdb
+C:\Users\RicardoTrindade\Desktop\CSharp-Training\S9-ImportedUsedProducts\S9-ImportedUsedProducts\obj\Debug\net10.0\S9-ImportedUsedProducts.genruntimeconfig.cache
+C:\Users\RicardoTrindade\Desktop\CSharp-Training\S9-ImportedUsedProducts\S9-ImportedUsedProducts\obj\Debug\net10.0\ref\S9-ImportedUsedProducts.dll

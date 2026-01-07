@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "S9-ImportedUsedProducts/1.0.0": {
+        "runtime": {
+          "S9-ImportedUsedProducts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S9-ImportedUsedProducts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
