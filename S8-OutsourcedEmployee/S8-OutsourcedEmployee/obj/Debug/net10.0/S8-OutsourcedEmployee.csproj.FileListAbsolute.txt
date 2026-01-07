@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OutsourcedEmployee/S8-OutsourcedEmployee/bin/Debug/net10.0/S8-OutsourcedEmployee
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OutsourcedEmployee/S8-OutsourcedEmployee/bin/Debug/net10.0/S8-OutsourcedEmployee.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OutsourcedEmployee/S8-OutsourcedEmployee/bin/Debug/net10.0/S8-OutsourcedEmployee.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OutsourcedEmployee/S8-OutsourcedEmployee/bin/Debug/net10.0/S8-OutsourcedEmployee.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OutsourcedEmployee/S8-OutsourcedEmployee/bin/Debug/net10.0/S8-OutsourcedEmployee.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OutsourcedEmployee/S8-OutsourcedEmployee/obj/Debug/net10.0/S8-OutsourcedEmployee.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OutsourcedEmployee/S8-OutsourcedEmployee/obj/Debug/net10.0/S8-OutsourcedEmployee.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OutsourcedEmployee/S8-OutsourcedEmployee/obj/Debug/net10.0/S8-OutsourcedEmployee.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OutsourcedEmployee/S8-OutsourcedEmployee/obj/Debug/net10.0/S8-OutsourcedEmployee.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OutsourcedEmployee/S8-OutsourcedEmployee/obj/Debug/net10.0/S8-OutsourcedEmployee.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OutsourcedEmployee/S8-OutsourcedEmployee/obj/Debug/net10.0/S8-OutsourcedEmployee.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OutsourcedEmployee/S8-OutsourcedEmployee/obj/Debug/net10.0/refint/S8-OutsourcedEmployee.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OutsourcedEmployee/S8-OutsourcedEmployee/obj/Debug/net10.0/S8-OutsourcedEmployee.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OutsourcedEmployee/S8-OutsourcedEmployee/obj/Debug/net10.0/S8-OutsourcedEmployee.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S8-OutsourcedEmployee/S8-OutsourcedEmployee/obj/Debug/net10.0/ref/S8-OutsourcedEmployee.dll
