@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-TaxPayers/S9-TaxPayers/bin/Debug/net10.0/S9-TaxPayers
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-TaxPayers/S9-TaxPayers/bin/Debug/net10.0/S9-TaxPayers.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-TaxPayers/S9-TaxPayers/bin/Debug/net10.0/S9-TaxPayers.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-TaxPayers/S9-TaxPayers/bin/Debug/net10.0/S9-TaxPayers.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-TaxPayers/S9-TaxPayers/bin/Debug/net10.0/S9-TaxPayers.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-TaxPayers/S9-TaxPayers/obj/Debug/net10.0/S9-TaxPayers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-TaxPayers/S9-TaxPayers/obj/Debug/net10.0/S9-TaxPayers.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-TaxPayers/S9-TaxPayers/obj/Debug/net10.0/S9-TaxPayers.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-TaxPayers/S9-TaxPayers/obj/Debug/net10.0/S9-TaxPayers.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-TaxPayers/S9-TaxPayers/obj/Debug/net10.0/S9-TaxPayers.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-TaxPayers/S9-TaxPayers/obj/Debug/net10.0/S9-TaxPayers.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-TaxPayers/S9-TaxPayers/obj/Debug/net10.0/refint/S9-TaxPayers.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-TaxPayers/S9-TaxPayers/obj/Debug/net10.0/S9-TaxPayers.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-TaxPayers/S9-TaxPayers/obj/Debug/net10.0/S9-TaxPayers.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-TaxPayers/S9-TaxPayers/obj/Debug/net10.0/ref/S9-TaxPayers.dll
