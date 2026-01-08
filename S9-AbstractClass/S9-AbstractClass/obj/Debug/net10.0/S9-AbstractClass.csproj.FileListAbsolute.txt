@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-AbstractClass/S9-AbstractClass/bin/Debug/net10.0/S9-AbstractClass
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-AbstractClass/S9-AbstractClass/bin/Debug/net10.0/S9-AbstractClass.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-AbstractClass/S9-AbstractClass/bin/Debug/net10.0/S9-AbstractClass.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-AbstractClass/S9-AbstractClass/bin/Debug/net10.0/S9-AbstractClass.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-AbstractClass/S9-AbstractClass/bin/Debug/net10.0/S9-AbstractClass.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-AbstractClass/S9-AbstractClass/obj/Debug/net10.0/S9-AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-AbstractClass/S9-AbstractClass/obj/Debug/net10.0/S9-AbstractClass.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-AbstractClass/S9-AbstractClass/obj/Debug/net10.0/S9-AbstractClass.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-AbstractClass/S9-AbstractClass/obj/Debug/net10.0/S9-AbstractClass.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-AbstractClass/S9-AbstractClass/obj/Debug/net10.0/S9-AbstractClass.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-AbstractClass/S9-AbstractClass/obj/Debug/net10.0/S9-AbstractClass.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-AbstractClass/S9-AbstractClass/obj/Debug/net10.0/refint/S9-AbstractClass.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-AbstractClass/S9-AbstractClass/obj/Debug/net10.0/S9-AbstractClass.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-AbstractClass/S9-AbstractClass/obj/Debug/net10.0/S9-AbstractClass.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S9-AbstractClass/S9-AbstractClass/obj/Debug/net10.0/ref/S9-AbstractClass.dll
