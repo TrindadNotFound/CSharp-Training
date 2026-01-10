@@ -1,3 +1,5 @@
+using S10_Bancking.entities.exceptions;
+
 namespace S10_Bancking.entities;
 
 public class Account
@@ -13,6 +15,25 @@ public class Account
         Holder = holder;
         Balance = balance;
         WithdrawLimit = withdrawLimit;
+    }
+    
+    public void Deposit(double amount)
+    {
+        Balance += amount;
+    }
+
+    public void Withdraw(double amount)
+    {
+        if (Balance < amount)
+        {
+            throw new DomainException("Error : Not enough money");
+        }
+
+        if (WithdrawLimit < amount)
+        {
+            throw new DomainException("Error : Withdraw limit exceeded");
+        }
+        Balance -= amount;
     }
 
     public override string ToString()
