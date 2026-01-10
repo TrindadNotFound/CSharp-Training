@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-ExceptionsExample/S10-ExceptionsExample/bin/Debug/net10.0/S10-ExceptionsExample
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-ExceptionsExample/S10-ExceptionsExample/bin/Debug/net10.0/S10-ExceptionsExample.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-ExceptionsExample/S10-ExceptionsExample/bin/Debug/net10.0/S10-ExceptionsExample.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-ExceptionsExample/S10-ExceptionsExample/bin/Debug/net10.0/S10-ExceptionsExample.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-ExceptionsExample/S10-ExceptionsExample/bin/Debug/net10.0/S10-ExceptionsExample.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-ExceptionsExample/S10-ExceptionsExample/obj/Debug/net10.0/S10-ExceptionsExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-ExceptionsExample/S10-ExceptionsExample/obj/Debug/net10.0/S10-ExceptionsExample.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-ExceptionsExample/S10-ExceptionsExample/obj/Debug/net10.0/S10-ExceptionsExample.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-ExceptionsExample/S10-ExceptionsExample/obj/Debug/net10.0/S10-ExceptionsExample.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-ExceptionsExample/S10-ExceptionsExample/obj/Debug/net10.0/S10-ExceptionsExample.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-ExceptionsExample/S10-ExceptionsExample/obj/Debug/net10.0/S10-ExceptionsExample.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-ExceptionsExample/S10-ExceptionsExample/obj/Debug/net10.0/refint/S10-ExceptionsExample.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-ExceptionsExample/S10-ExceptionsExample/obj/Debug/net10.0/S10-ExceptionsExample.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-ExceptionsExample/S10-ExceptionsExample/obj/Debug/net10.0/S10-ExceptionsExample.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-ExceptionsExample/S10-ExceptionsExample/obj/Debug/net10.0/ref/S10-ExceptionsExample.dll
