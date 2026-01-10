@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "S11-StreamReaderExample/1.0.0": {
+        "runtime": {
+          "S11-StreamReaderExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S11-StreamReaderExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-StreamReaderExample/S11-StreamReaderExample/bin/Debug/net10.0/S11-StreamReaderExample
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-StreamReaderExample/S11-StreamReaderExample/bin/Debug/net10.0/S11-StreamReaderExample.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-StreamReaderExample/S11-StreamReaderExample/bin/Debug/net10.0/S11-StreamReaderExample.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-StreamReaderExample/S11-StreamReaderExample/bin/Debug/net10.0/S11-StreamReaderExample.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-StreamReaderExample/S11-StreamReaderExample/bin/Debug/net10.0/S11-StreamReaderExample.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-StreamReaderExample/S11-StreamReaderExample/obj/Debug/net10.0/S11-StreamReaderExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-StreamReaderExample/S11-StreamReaderExample/obj/Debug/net10.0/S11-StreamReaderExample.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-StreamReaderExample/S11-StreamReaderExample/obj/Debug/net10.0/S11-StreamReaderExample.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-StreamReaderExample/S11-StreamReaderExample/obj/Debug/net10.0/S11-StreamReaderExample.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-StreamReaderExample/S11-StreamReaderExample/obj/Debug/net10.0/S11-StreamReaderExample.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-StreamReaderExample/S11-StreamReaderExample/obj/Debug/net10.0/S11-StreamReaderExample.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-StreamReaderExample/S11-StreamReaderExample/obj/Debug/net10.0/refint/S11-StreamReaderExample.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-StreamReaderExample/S11-StreamReaderExample/obj/Debug/net10.0/S11-StreamReaderExample.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-StreamReaderExample/S11-StreamReaderExample/obj/Debug/net10.0/S11-StreamReaderExample.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-StreamReaderExample/S11-StreamReaderExample/obj/Debug/net10.0/ref/S11-StreamReaderExample.dll
