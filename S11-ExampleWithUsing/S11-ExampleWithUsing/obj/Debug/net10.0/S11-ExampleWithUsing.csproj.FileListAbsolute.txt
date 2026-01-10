@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ExampleWithUsing/S11-ExampleWithUsing/bin/Debug/net10.0/S11-ExampleWithUsing
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ExampleWithUsing/S11-ExampleWithUsing/bin/Debug/net10.0/S11-ExampleWithUsing.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ExampleWithUsing/S11-ExampleWithUsing/bin/Debug/net10.0/S11-ExampleWithUsing.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ExampleWithUsing/S11-ExampleWithUsing/bin/Debug/net10.0/S11-ExampleWithUsing.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ExampleWithUsing/S11-ExampleWithUsing/bin/Debug/net10.0/S11-ExampleWithUsing.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ExampleWithUsing/S11-ExampleWithUsing/obj/Debug/net10.0/S11-ExampleWithUsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ExampleWithUsing/S11-ExampleWithUsing/obj/Debug/net10.0/S11-ExampleWithUsing.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ExampleWithUsing/S11-ExampleWithUsing/obj/Debug/net10.0/S11-ExampleWithUsing.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ExampleWithUsing/S11-ExampleWithUsing/obj/Debug/net10.0/S11-ExampleWithUsing.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ExampleWithUsing/S11-ExampleWithUsing/obj/Debug/net10.0/S11-ExampleWithUsing.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ExampleWithUsing/S11-ExampleWithUsing/obj/Debug/net10.0/S11-ExampleWithUsing.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ExampleWithUsing/S11-ExampleWithUsing/obj/Debug/net10.0/refint/S11-ExampleWithUsing.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ExampleWithUsing/S11-ExampleWithUsing/obj/Debug/net10.0/S11-ExampleWithUsing.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ExampleWithUsing/S11-ExampleWithUsing/obj/Debug/net10.0/S11-ExampleWithUsing.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ExampleWithUsing/S11-ExampleWithUsing/obj/Debug/net10.0/ref/S11-ExampleWithUsing.dll
