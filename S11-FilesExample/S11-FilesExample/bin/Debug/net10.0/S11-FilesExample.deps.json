@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "S11-FilesExample/1.0.0": {
+        "runtime": {
+          "S11-FilesExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S11-FilesExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

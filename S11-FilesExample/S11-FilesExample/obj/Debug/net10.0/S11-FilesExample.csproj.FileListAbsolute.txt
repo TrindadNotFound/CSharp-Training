@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-FilesExample/S11-FilesExample/bin/Debug/net10.0/S11-FilesExample
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-FilesExample/S11-FilesExample/bin/Debug/net10.0/S11-FilesExample.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-FilesExample/S11-FilesExample/bin/Debug/net10.0/S11-FilesExample.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-FilesExample/S11-FilesExample/bin/Debug/net10.0/S11-FilesExample.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-FilesExample/S11-FilesExample/bin/Debug/net10.0/S11-FilesExample.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-FilesExample/S11-FilesExample/obj/Debug/net10.0/S11-FilesExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-FilesExample/S11-FilesExample/obj/Debug/net10.0/S11-FilesExample.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-FilesExample/S11-FilesExample/obj/Debug/net10.0/S11-FilesExample.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-FilesExample/S11-FilesExample/obj/Debug/net10.0/S11-FilesExample.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-FilesExample/S11-FilesExample/obj/Debug/net10.0/S11-FilesExample.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-FilesExample/S11-FilesExample/obj/Debug/net10.0/S11-FilesExample.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-FilesExample/S11-FilesExample/obj/Debug/net10.0/refint/S11-FilesExample.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-FilesExample/S11-FilesExample/obj/Debug/net10.0/S11-FilesExample.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-FilesExample/S11-FilesExample/obj/Debug/net10.0/S11-FilesExample.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-FilesExample/S11-FilesExample/obj/Debug/net10.0/ref/S11-FilesExample.dll
