@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S11-FilesExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4da65913b20113674e320949c91e6ef78f8d95c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a93c6e60cd284c080a983b4129b8d25faf539ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("S11-FilesExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S11-FilesExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

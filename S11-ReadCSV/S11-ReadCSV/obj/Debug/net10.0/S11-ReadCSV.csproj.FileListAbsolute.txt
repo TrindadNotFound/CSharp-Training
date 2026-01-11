@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ReadCSV/S11-ReadCSV/bin/Debug/net10.0/S11-ReadCSV
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ReadCSV/S11-ReadCSV/bin/Debug/net10.0/S11-ReadCSV.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ReadCSV/S11-ReadCSV/bin/Debug/net10.0/S11-ReadCSV.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ReadCSV/S11-ReadCSV/bin/Debug/net10.0/S11-ReadCSV.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ReadCSV/S11-ReadCSV/bin/Debug/net10.0/S11-ReadCSV.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ReadCSV/S11-ReadCSV/obj/Debug/net10.0/S11-ReadCSV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ReadCSV/S11-ReadCSV/obj/Debug/net10.0/S11-ReadCSV.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ReadCSV/S11-ReadCSV/obj/Debug/net10.0/S11-ReadCSV.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ReadCSV/S11-ReadCSV/obj/Debug/net10.0/S11-ReadCSV.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ReadCSV/S11-ReadCSV/obj/Debug/net10.0/S11-ReadCSV.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ReadCSV/S11-ReadCSV/obj/Debug/net10.0/S11-ReadCSV.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ReadCSV/S11-ReadCSV/obj/Debug/net10.0/refint/S11-ReadCSV.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ReadCSV/S11-ReadCSV/obj/Debug/net10.0/S11-ReadCSV.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ReadCSV/S11-ReadCSV/obj/Debug/net10.0/S11-ReadCSV.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-ReadCSV/S11-ReadCSV/obj/Debug/net10.0/ref/S11-ReadCSV.dll

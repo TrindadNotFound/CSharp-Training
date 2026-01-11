@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S11-DirectoryInfo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+177be1da7a5e7fc92422c02d8a9aa4d1f8c2ac1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a93c6e60cd284c080a983b4129b8d25faf539ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("S11-DirectoryInfo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S11-DirectoryInfo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
