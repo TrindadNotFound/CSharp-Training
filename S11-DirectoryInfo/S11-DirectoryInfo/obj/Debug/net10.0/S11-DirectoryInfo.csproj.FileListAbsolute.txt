@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-DirectoryInfo/S11-DirectoryInfo/bin/Debug/net10.0/S11-DirectoryInfo
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-DirectoryInfo/S11-DirectoryInfo/bin/Debug/net10.0/S11-DirectoryInfo.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-DirectoryInfo/S11-DirectoryInfo/bin/Debug/net10.0/S11-DirectoryInfo.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-DirectoryInfo/S11-DirectoryInfo/bin/Debug/net10.0/S11-DirectoryInfo.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-DirectoryInfo/S11-DirectoryInfo/bin/Debug/net10.0/S11-DirectoryInfo.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-DirectoryInfo/S11-DirectoryInfo/obj/Debug/net10.0/S11-DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-DirectoryInfo/S11-DirectoryInfo/obj/Debug/net10.0/S11-DirectoryInfo.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-DirectoryInfo/S11-DirectoryInfo/obj/Debug/net10.0/S11-DirectoryInfo.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-DirectoryInfo/S11-DirectoryInfo/obj/Debug/net10.0/S11-DirectoryInfo.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-DirectoryInfo/S11-DirectoryInfo/obj/Debug/net10.0/S11-DirectoryInfo.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-DirectoryInfo/S11-DirectoryInfo/obj/Debug/net10.0/S11-DirectoryInfo.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-DirectoryInfo/S11-DirectoryInfo/obj/Debug/net10.0/refint/S11-DirectoryInfo.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-DirectoryInfo/S11-DirectoryInfo/obj/Debug/net10.0/S11-DirectoryInfo.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-DirectoryInfo/S11-DirectoryInfo/obj/Debug/net10.0/S11-DirectoryInfo.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S11-DirectoryInfo/S11-DirectoryInfo/obj/Debug/net10.0/ref/S11-DirectoryInfo.dll
