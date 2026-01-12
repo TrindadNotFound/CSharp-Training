@@ -1,6 +1,11 @@
 namespace S12_RentalCarInterface.entities;
 
-public class Vehicle (string model)
+public class Vehicle
 {
     public string Model { get; set; }
+
+    public Vehicle(string model)
+    {
+        Model = model;
+    }
 }
