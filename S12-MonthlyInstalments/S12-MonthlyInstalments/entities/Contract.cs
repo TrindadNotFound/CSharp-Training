@@ -6,13 +6,18 @@ public class Contract
     public DateTime Date { get; set; }
     public double TotalValue { get; set; }
     
-    public List<Instalment> Instalments { get; set; }
+    public List<Installment> Installments { get; set; }
 
-    public Contract(int number, DateTime date, double totalValue, List<Instalment> Instalments)
+    public Contract(int number, DateTime date, double totalValue)
     {
         Number = number;
         Date = date;
         TotalValue = totalValue;
-        Instalments = Instalments;
+        Installments = new List<Installment>();
+    }
+
+    public void AddInstallment(Installment installment)
+    {
+        Installments.Add(installment);
     }
 }
