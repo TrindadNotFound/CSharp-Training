@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S13-Dictionary/S13-Dictionary/bin/Debug/net10.0/S13-Dictionary
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S13-Dictionary/S13-Dictionary/bin/Debug/net10.0/S13-Dictionary.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S13-Dictionary/S13-Dictionary/bin/Debug/net10.0/S13-Dictionary.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S13-Dictionary/S13-Dictionary/bin/Debug/net10.0/S13-Dictionary.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S13-Dictionary/S13-Dictionary/bin/Debug/net10.0/S13-Dictionary.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S13-Dictionary/S13-Dictionary/obj/Debug/net10.0/S13-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S13-Dictionary/S13-Dictionary/obj/Debug/net10.0/S13-Dictionary.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S13-Dictionary/S13-Dictionary/obj/Debug/net10.0/S13-Dictionary.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S13-Dictionary/S13-Dictionary/obj/Debug/net10.0/S13-Dictionary.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S13-Dictionary/S13-Dictionary/obj/Debug/net10.0/S13-Dictionary.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S13-Dictionary/S13-Dictionary/obj/Debug/net10.0/S13-Dictionary.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S13-Dictionary/S13-Dictionary/obj/Debug/net10.0/refint/S13-Dictionary.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S13-Dictionary/S13-Dictionary/obj/Debug/net10.0/S13-Dictionary.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S13-Dictionary/S13-Dictionary/obj/Debug/net10.0/S13-Dictionary.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S13-Dictionary/S13-Dictionary/obj/Debug/net10.0/ref/S13-Dictionary.dll
