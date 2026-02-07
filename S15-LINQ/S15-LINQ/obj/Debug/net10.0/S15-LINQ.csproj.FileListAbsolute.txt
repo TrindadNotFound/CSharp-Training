@@ -1,0 +1,14 @@
+C:\Users\RicardoTrindade\Desktop\CSharp\S15-LINQ\S15-LINQ\bin\Debug\net10.0\S15-LINQ.exe
+C:\Users\RicardoTrindade\Desktop\CSharp\S15-LINQ\S15-LINQ\bin\Debug\net10.0\S15-LINQ.deps.json
+C:\Users\RicardoTrindade\Desktop\CSharp\S15-LINQ\S15-LINQ\bin\Debug\net10.0\S15-LINQ.runtimeconfig.json
+C:\Users\RicardoTrindade\Desktop\CSharp\S15-LINQ\S15-LINQ\bin\Debug\net10.0\S15-LINQ.dll
+C:\Users\RicardoTrindade\Desktop\CSharp\S15-LINQ\S15-LINQ\bin\Debug\net10.0\S15-LINQ.pdb
+C:\Users\RicardoTrindade\Desktop\CSharp\S15-LINQ\S15-LINQ\obj\Debug\net10.0\S15-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RicardoTrindade\Desktop\CSharp\S15-LINQ\S15-LINQ\obj\Debug\net10.0\S15-LINQ.AssemblyInfoInputs.cache
+C:\Users\RicardoTrindade\Desktop\CSharp\S15-LINQ\S15-LINQ\obj\Debug\net10.0\S15-LINQ.AssemblyInfo.cs
+C:\Users\RicardoTrindade\Desktop\CSharp\S15-LINQ\S15-LINQ\obj\Debug\net10.0\S15-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\RicardoTrindade\Desktop\CSharp\S15-LINQ\S15-LINQ\obj\Debug\net10.0\S15-LINQ.dll
+C:\Users\RicardoTrindade\Desktop\CSharp\S15-LINQ\S15-LINQ\obj\Debug\net10.0\refint\S15-LINQ.dll
+C:\Users\RicardoTrindade\Desktop\CSharp\S15-LINQ\S15-LINQ\obj\Debug\net10.0\S15-LINQ.pdb
+C:\Users\RicardoTrindade\Desktop\CSharp\S15-LINQ\S15-LINQ\obj\Debug\net10.0\S15-LINQ.genruntimeconfig.cache
+C:\Users\RicardoTrindade\Desktop\CSharp\S15-LINQ\S15-LINQ\obj\Debug\net10.0\ref\S15-LINQ.dll
