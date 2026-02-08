@@ -1,0 +1,15 @@
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-Bancking /S10-Bancking /bin/Debug/net10.0/S10-BankingAccount
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-Bancking /S10-Bancking /bin/Debug/net10.0/S10-BankingAccount.deps.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-Bancking /S10-Bancking /bin/Debug/net10.0/S10-BankingAccount.runtimeconfig.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-Bancking /S10-Bancking /bin/Debug/net10.0/S10-BankingAccount.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-Bancking /S10-Bancking /bin/Debug/net10.0/S10-BankingAccount.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-Bancking /S10-Bancking /obj/Debug/net10.0/S10-BankingAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-Bancking /S10-Bancking /obj/Debug/net10.0/S10-BankingAccount.AssemblyInfoInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-Bancking /S10-Bancking /obj/Debug/net10.0/S10-BankingAccount.AssemblyInfo.cs
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-Bancking /S10-Bancking /obj/Debug/net10.0/S10-BankingAccount.csproj.CoreCompileInputs.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-Bancking /S10-Bancking /obj/Debug/net10.0/S10-BankingAccount.sourcelink.json
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-Bancking /S10-Bancking /obj/Debug/net10.0/S10-BankingAccount.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-Bancking /S10-Bancking /obj/Debug/net10.0/refint/S10-BankingAccount.dll
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-Bancking /S10-Bancking /obj/Debug/net10.0/S10-BankingAccount.pdb
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-Bancking /S10-Bancking /obj/Debug/net10.0/S10-BankingAccount.genruntimeconfig.cache
+/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/S10-Bancking /S10-Bancking /obj/Debug/net10.0/ref/S10-BankingAccount.dll
