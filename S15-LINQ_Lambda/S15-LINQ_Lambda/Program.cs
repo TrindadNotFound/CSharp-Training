@@ -33,10 +33,61 @@ class Program
             new Product(9, "McBook", 1800, c2),
             new Product(10, "Sound Bar", 700, c3),
         };
+        
         var result_1 = products
             .Where(p => p.Category.Tier == 1 && p.Price < 900);
-        
         Print("TIRE 1 AND PRICE < 900", result_1);
         
+        
+        var result_2 = products
+            .Where(p => p.Category.Name == "Tools");
+        Print("NAME OF PRODUCTS FROM TOOLS", result_2);
+
+        
+        var result_3 = products
+            .Where(p=>p.Name.StartsWith('C') || p.Name.StartsWith('c'))
+            .Select(p => new {PRODUCT_NAME = p.Name, PRODUCT_PRICE = p.Price, CATEGORY_NAME = p.Category.Name});
+        Print("NAME OF PRODUCTS STARTED BY 'C'", result_3);
+
+        
+        var result_4 = products
+            .Where(p => p.Category.Tier == 1)
+            .Select(p => new {PRODUCT_NAME = p.Name, PRODUCT_PRICE = p.Price, CATEGORY_NAME = p.Category.Name})
+            .OrderBy(p => p.PRODUCT_PRICE)
+            .ThenBy(p => p.CATEGORY_NAME);
+        Print("ALL PRODUCTS WHERE TIRE IS 1", result_4);
+
+        
+        var result_5 = result_4
+            .Skip(2)
+            .Take(4)
+            .OrderBy(p => p.PRODUCT_PRICE); 
+        Print("SKIP FIRST 2 PRODUCTS AND SHOW NEXT 4 PRODUCTS", result_5);
+
+        try
+        {
+            var result_6 = products.Where(p => p.Price > 4000).FirstOrDefault();
+
+            Console.WriteLine($"PRICE > 4000 : {result_6}");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine($"FIRST PRICE > 4000 ERROR : {e.Message}");
+        }
+
+        Console.WriteLine();
+        
+        var result_7 = products.Where(p => p.Id == 3).SingleOrDefault();
+        Console.WriteLine($"SINGLE RESULT : {result_7}");
+        
+        Console.WriteLine();
+        
+        var result_8 = products.MaxBy(p => p.Price);
+        Console.WriteLine($"MAX PRICE PRODUCT : {result_8.Name} -  {result_8.Price}");
+        
+        Console.WriteLine();
+        
+        var result_9 = products.MinBy(p => p.Price);
+        Console.WriteLine($"MIN PRICE PRODUCT : {result_9.Name} -   {result_9.Price}");
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S15-LINQ_Lambda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ab880583547337ce164796086c0aa90da379f52")]
 [assembly: System.Reflection.AssemblyProductAttribute("S15-LINQ_Lambda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S15-LINQ_Lambda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
