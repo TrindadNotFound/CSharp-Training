@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Training\\CSharp\\CSharp-Training\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {}
+    "C:\\Users\\RicardoTrindade\\Desktop\\CSharp\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {}
   },
   "projects": {
-    "A:\\Training\\CSharp\\CSharp-Training\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {
+    "C:\\Users\\RicardoTrindade\\Desktop\\CSharp\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Training\\CSharp\\CSharp-Training\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectUniqueName": "C:\\Users\\RicardoTrindade\\Desktop\\CSharp\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
         "projectName": "SalesWebMVC",
-        "projectPath": "A:\\Training\\CSharp\\CSharp-Training\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
-        "packagesPath": "C:\\Users\\Ricardo Trindade\\.nuget\\packages\\",
-        "outputPath": "A:\\Training\\CSharp\\CSharp-Training\\SalesWebMVC\\SalesWebMVC\\obj\\",
+        "projectPath": "C:\\Users\\RicardoTrindade\\Desktop\\CSharp\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "packagesPath": "C:\\Users\\RicardoTrindade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RicardoTrindade\\Desktop\\CSharp\\SalesWebMVC\\SalesWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ricardo Trindade\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\RicardoTrindade\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -86,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

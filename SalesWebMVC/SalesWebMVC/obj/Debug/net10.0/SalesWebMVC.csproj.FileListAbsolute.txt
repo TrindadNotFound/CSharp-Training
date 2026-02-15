@@ -57,6 +57,8 @@ C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\bin\Debug\net10.
 C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\bin\Debug\net10.0\Mono.TextTemplating.dll
 C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\bin\Debug\net10.0\Npgsql.dll
+C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\bin\Debug\net10.0\NuGet.Common.dll
 C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\bin\Debug\net10.0\NuGet.Configuration.dll
 C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\bin\Debug\net10.0\NuGet.DependencyResolver.Core.dll
@@ -292,6 +294,7 @@ C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\obj\Debug\net10.
 C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\obj\Debug\net10.0\compressed\k3exmb9l30-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\obj\Debug\net10.0\compressed\wczse35v4c-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\obj\Debug\net10.0\compressed\2fyyk61org-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\obj\Debug\net10.0\compressed\pelujpruwa-{0}-y7qtqb7m33-y7qtqb7m33.gz
 C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\obj\Debug\net10.0\compressed\bsotczn9d4-{0}-t1cqhe9u97-t1cqhe9u97.gz
 C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\obj\Debug\net10.0\compressed\u7m7lpqnuy-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\obj\Debug\net10.0\compressed\24vruqrg14-{0}-sejl45xvog-sejl45xvog.gz
@@ -364,5 +367,3 @@ C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\obj\Debug\net10.
 C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\obj\Debug\net10.0\SalesWebMVC.pdb
 C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\obj\Debug\net10.0\SalesWebMVC.genruntimeconfig.cache
 C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\obj\Debug\net10.0\ref\SalesWebMVC.dll
-C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\bin\Debug\net10.0\Npgsql.dll
-C:\Users\RicardoTrindade\Desktop\CSharp\SalesWebMVC\SalesWebMVC\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
