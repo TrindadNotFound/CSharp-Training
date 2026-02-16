@@ -26,7 +26,6 @@ public class Seller
         Email = email;
         BirthDate = birthDate;
         BaseSalary = baseSalary;
-        DepartmentId = 0;
     }
 
     public void AddSales(SalesRecord salesRecord)

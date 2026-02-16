@@ -1,4 +1,4 @@
-﻿@model SalesWebMVC.Models.Seller
+﻿@model SalesWebMVC.Models.ViewModels.SellerFormViewModel
 @{
     ViewData["Title"] = "Create Seller";
 }
@@ -10,24 +10,29 @@
     <div class="col-md-4">
         <form asp-action="Create">
             <div class="form-group">
-                <lable asp-for="Name" class="control-label">Name</lable>
-                <input asp-for="Name" class="form-control" type="text">
+                <label asp-for="Seller.Name" class="control-label">Name</label>
+                <input asp-for="Seller.Name" class="form-control" type="text">
             </div>
             <br>
             <div class="form-group">
-                <lable asp-for="Email" class="control-label">Email</lable>
-                <input asp-for="Email" class="form-control" type="email">
+                <label asp-for="Seller.Email" class="control-label">Email</label>
+                <input asp-for="Seller.Email" class="form-control" type="email">
             </div>
             <br>
             <div class="form-group">
-                <lable asp-for="BirthDate" class="control-label">Birth Date</lable>
-                <input asp-for="BirthDate" class="form-control" type="date">
+                <label asp-for="Seller.BirthDate" class="control-label">Birth Date</label>
+                <input asp-for="Seller.BirthDate" class="form-control" type="date">
             </div>
             <br>
             <div class="form-group">
-                <lable asp-for="BaseSalary" class="control-label">Base Salary</lable>
-                <input asp-for="BaseSalary" class="form-control" type="number">
+                <label asp-for="Seller.BaseSalary" class="control-label">Base Salary</label>
+                <input asp-for="Seller.BaseSalary" class="form-control" type="number">
             </div>
+            <br>
+            <div class="form-group">
+                <label asp-for="Seller.DepartmentId" class="control-label">Department</label>
+                <select asp-for="Seller.DepartmentId" asp-items="@(new SelectList(Model.Departments, "Id", "Name"))" class="form-control"></select>
+                </div>
             <br>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary">
