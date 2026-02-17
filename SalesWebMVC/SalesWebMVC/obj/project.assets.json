@@ -6519,19 +6519,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RicardoTrindade\\.nuget\\packages\\": {}
+    "/Users/ricardotrindade/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RicardoTrindade\\Desktop\\CSharp\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+      "projectUniqueName": "/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/SalesWebMVC/SalesWebMVC/SalesWebMVC.csproj",
       "projectName": "SalesWebMVC",
-      "projectPath": "C:\\Users\\RicardoTrindade\\Desktop\\CSharp\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
-      "packagesPath": "C:\\Users\\RicardoTrindade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RicardoTrindade\\Desktop\\CSharp\\SalesWebMVC\\SalesWebMVC\\obj\\",
+      "projectPath": "/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/SalesWebMVC/SalesWebMVC/SalesWebMVC.csproj",
+      "packagesPath": "/Users/ricardotrindade/.nuget/packages/",
+      "outputPath": "/Users/ricardotrindade/Documents/Programming/CSharp/CSharp-Training/SalesWebMVC/SalesWebMVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\RicardoTrindade\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/ricardotrindade/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -6603,7 +6603,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
