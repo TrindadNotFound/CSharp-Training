@@ -1,14 +1,30 @@
-﻿using Microsoft.CodeAnalysis.CSharp.Syntax;
+﻿using System.ComponentModel.DataAnnotations;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
 using System.Linq;
+using Humanizer;
 
 namespace SalesWebMVC.Models;
 
 public class Seller
 {
     public int Id { get; set; }
+    
+    [Required(ErrorMessage = "{0} is required")]
+    [StringLength(20, MinimumLength = 3,  ErrorMessage = "{0} must be between {2} and {1} characters")]
     public String Name { get; set; }
+    
+    [DataType(DataType.EmailAddress)]
+    [Required(ErrorMessage = "{0} is required")]
+    [EmailAddress(ErrorMessage = "{0} is not a valid email address")]
     public string Email { get; set; }
+    
+    [Display(Name = "Birth Date")]
     public DateOnly BirthDate { get; set; }
+        
+    [Display(Name = "Base Salary")]
+    [DisplayFormat(DataFormatString = "{0:F2}")]
+    [Required(ErrorMessage = "{0} is required")]
+    [Range(100, 50000, ErrorMessage = "{0} must be between {1} and {2}")]
     public double BaseSalary { get; set; }
     
     public int DepartmentId { get; set; }

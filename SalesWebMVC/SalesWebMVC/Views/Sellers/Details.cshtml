@@ -11,39 +11,57 @@
     <hr>
     <h4>Seller details</h4>
     <br>
-    <dl class="dl-horizontal">
-        <dt>
-            @Html.DisplayNameFor(model => model.Name)
-        </dt>
-        <dd>
-            @Html.DisplayFor(model => model.Name)
-        </dd>
-        <dt>
-            @Html.DisplayNameFor(model => model.Email)
-        </dt>
-        <dd>
-            @Html.DisplayFor(model => model.Email)
-        </dd>
-        <dt>
-            @Html.DisplayNameFor(model => model.BirthDate)
-        </dt>
-        <dd>
-            @Html.DisplayFor(model => model.BirthDate)
-        </dd>
-        <dt>
-            @Html.DisplayNameFor(model => model.BaseSalary)
-        </dt>
-        <dd>
-            @Html.DisplayFor(model => model.BaseSalary)
-        </dd>
-        <dt>
-            @Html.DisplayNameFor(model => model.Department)
-        </dt>
-        <dd>
-            @Html.DisplayFor(model => model.Department.Name)
-        </dd>
-    </dl>
+    <div class="container">
+        <h4>Seller details</h4>
+        <hr/>
+
+        <div class="row mb-2">
+            <div class="col-sm-3 fw-bold">
+                @Html.DisplayNameFor(model => model.Name)
+            </div>
+            <div class="col-sm-9">
+                @Html.DisplayFor(model => model.Name)
+            </div>
+        </div>
+
+        <div class="row mb-2">
+            <div class="col-sm-3 fw-bold">
+                @Html.DisplayNameFor(model => model.Email)
+            </div>
+            <div class="col-sm-9">
+                @Html.DisplayFor(model => model.Email)
+            </div>
+        </div>
+
+        <div class="row mb-2">
+            <div class="col-sm-3 fw-bold">
+                @Html.DisplayNameFor(model => model.BirthDate)
+            </div>
+            <div class="col-sm-9">
+                @Html.DisplayFor(model => model.BirthDate)
+            </div>
+        </div>
+
+        <div class="row mb-2">
+            <div class="col-sm-3 fw-bold">
+                @Html.DisplayNameFor(model => model.BaseSalary)
+            </div>
+            <div class="col-sm-9">
+                @Html.DisplayFor(model => model.BaseSalary)
+            </div>
+        </div>
+
+        <div class="row mb-2">
+            <div class="col-sm-3 fw-bold">
+                @Html.DisplayNameFor(model => model.Department)
+            </div>
+            <div class="col-sm-9">
+                @Html.DisplayFor(model => model.Department.Name)
+            </div>
+        </div>
+    </div>
 </div>
+<br>
 <div>
     <a class="btn btn-primary" asp-route-id="@Model.Id">Edit</a>
     <a class="btn btn-primary" asp-action="Index">Back to List</a>
