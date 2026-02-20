@@ -21,12 +21,39 @@ public class SalesRecordsController : Controller
     
     public async Task<IActionResult> SimpleSearch(DateOnly? minDate, DateOnly? maxDate)
     {
+        if (!minDate.HasValue)
+        {
+            minDate = new DateOnly(DateTime.Now.Year, 1, 1);
+        }
+        
+        if (!maxDate.HasValue)
+        {
+            maxDate = DateOnly.FromDateTime(DateTime.Now);
+        }
+        
+        ViewData["minDate"] = minDate.Value.ToString("dd/MM/yyyy");
+        ViewData["maxDate"] = maxDate.Value.ToString("dd/MM/yyyy");
+        
         var result = await _salesRecordService.FindByDateAsync(minDate, maxDate);
-        return View();
+        return View(result);
     }
     
-    public IActionResult GroupingSearch()
+    public async Task<IActionResult> GroupingSearch(DateOnly? minDate, DateOnly? maxDate)
     {
-        return View();
+        if (!minDate.HasValue)
+        {
+            minDate = new DateOnly(DateTime.Now.Year, 1, 1);
+        }
+        
+        if (!maxDate.HasValue)
+        {
+            maxDate = DateOnly.FromDateTime(DateTime.Now);
+        }
+        
+        ViewData["minDate"] = minDate.Value.ToString("dd/MM/yyyy");
+        ViewData["maxDate"] = maxDate.Value.ToString("dd/MM/yyyy");
+        
+        var result = await _salesRecordService.FindByDateGroupingAsync(minDate, maxDate);
+        return View(result);
     }
 }
